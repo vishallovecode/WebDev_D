@@ -160,8 +160,6 @@
  const adults = [15 , 16 , 17 , 20  , 80 , 18];
 
 
-
-
 //  Iterating through given array  , Javascript array higher order functions ;
 
 
